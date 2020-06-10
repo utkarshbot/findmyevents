@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/findmyevents/static/css/main.12000c7e.chunk.css",
+    "main.js": "/findmyevents/static/js/main.4f77df87.chunk.js",
+    "main.js.map": "/findmyevents/static/js/main.4f77df87.chunk.js.map",
+    "runtime-main.js": "/findmyevents/static/js/runtime-main.9c01c021.js",
+    "runtime-main.js.map": "/findmyevents/static/js/runtime-main.9c01c021.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/findmyevents/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c9b503de.chunk.js": "/findmyevents/static/js/2.c9b503de.chunk.js",
+    "static/js/2.c9b503de.chunk.js.map": "/findmyevents/static/js/2.c9b503de.chunk.js.map",
+    "index.html": "/findmyevents/index.html",
+    "precache-manifest.18e377aff8b26b7448f5dd4a6555e0ca.js": "/findmyevents/precache-manifest.18e377aff8b26b7448f5dd4a6555e0ca.js",
+    "service-worker.js": "/findmyevents/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/findmyevents/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.12000c7e.chunk.css.map": "/findmyevents/static/css/main.12000c7e.chunk.css.map",
+    "static/js/2.c9b503de.chunk.js.LICENSE.txt": "/findmyevents/static/js/2.c9b503de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c01c021.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c9b503de.chunk.js",
+    "static/css/main.12000c7e.chunk.css",
+    "static/js/main.4f77df87.chunk.js"
+  ]
+}
